@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">DailyFitness</string>
+    <string name="title_1">Morning Energizer Yoga</string>
+    <string name="title_2">Water Bottle Reminder</string>
+    <string name="title_3">Protein-Packed Plate</string>
+    <string name="title_4">High-Intensity Interval Training (HIIT) Burst</string>
+    <string name="title_5">Mindful Meditation Break</string>
+    <string name="description_1">Wake up your body with a revitalizing yoga routine. Focus on gentle stretches and deep breathing.</string>
+    <string name="description_2">Keep a water bottle with you throughout the day to stay hydrated and support overall health.</string>
+    <string name="description_3">Opt for meals rich in protein to aid muscle recovery. Include lean meats, fish, or plant-based proteins.</string>
+    <string name="description_4">Incorporate short bursts of high-intensity exercises into your routine for a quick and effective workout.</string>
+    <string name="description_5">Take a few minutes each day for mindful meditation to reduce stress and enhance mental clarity.</string>
+</resources>

@@ -1,0 +1,21 @@
+
+D
+app/build.gradle.kts,d\2\d2a4383452aad84a18429a5844d31330a012a9e6
+{
+Kapp/src/main/java/com/github/marcelobenedito/dailyfitness/ui/theme/Theme.kt,d\3\d39b916fe5634492cf6007c432d0ee74955cdb3d
+{
+Kapp/src/main/java/com/github/marcelobenedito/dailyfitness/ui/theme/Color.kt,e\f\ef2697f007d49605e72ddb16be8d770c571e2089
+z
+Japp/src/main/java/com/github/marcelobenedito/dailyfitness/ui/theme/Type.kt,a\3\a3569ca2a05dfb321a3d12ad2499794216243d57
+—
+gapp/src/main/java/com/github/marcelobenedito/dailyfitness/data/repository/DailyFitnessTipsRepository.kt,5\e\5e4cd1806300d9f1c00166cb44565679ab18b8ea
+}
+Mapp/src/main/java/com/github/marcelobenedito/dailyfitness/model/FitnessTip.kt,b\e\be3a663797d80cad2141569428b2bb8f34ecd79e
+y
+Iapp/src/main/java/com/github/marcelobenedito/dailyfitness/MainActivity.kt,3\5\356b7f2feedf0073f6c4e297fee08eb59016a940
+{
+Kapp/src/main/java/com/github/marcelobenedito/dailyfitness/ui/theme/Shape.kt,7\e\7eef53fe4c449d15bf11fe7ca80061bdbef9963b
+…
+Uapp/src/main/java/com/github/marcelobenedito/dailyfitness/ui/DailyFitnessTipScreen.kt,9\1\91bd67ce037990f964905bae2e902cee811ad1a8
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
